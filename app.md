@@ -1,0 +1,2 @@
+- registerActivityResult
+  - 替代startActivityForResult
