@@ -1,0 +1,2 @@
+- registerActivityResult
+  - 替代startActivityForResult接口，实际也会回调到onActivityResult，会在onActivityResult最后调用
